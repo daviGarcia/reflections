@@ -7,7 +7,7 @@ git commit -m "Some comment" - This commits the changes to the master
 git branch <name of new branch> - Creates a branch with desired name.
 
 git branch -d <name of branch> - Deletes the desired branch.
-
+    - This command is only used after you commit your changes within that branch so that you don't lose them.
 git branch - shows me the names of the branches that exist.
 
 git merge master easy-mode - This is how you merge the branch to the master.
