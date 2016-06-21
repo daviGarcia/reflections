@@ -1,3 +1,9 @@
+git remote - shows you the remote branches you have from github
+
+git remote <name of remote> - Creates a remote. It's custom to create a remote called "origin"
+
+git pull origin master - pulls the the data from the master branch on the remote to origin.
+
 git init - Creates a local repository on your computer.
 
 git diff <commit> <commit> - Compare both commits to see changes.
