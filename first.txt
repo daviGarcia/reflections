@@ -1,1 +1,13 @@
-1. This is the first file.
+git status - shows status
+
+git add <files> - adds files to staging area.
+
+git commit -m "Some comment" - This commits the changes to the master
+
+git branch <name of new branch> - Creates a branch with desired name.
+
+git branch -d <name of branch> - Deletes the desired branch.
+
+git branch - shows me the names of the branches that exist.
+
+git merge master easy-mode - This is how you merge the branch to the master.
