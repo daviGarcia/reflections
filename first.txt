@@ -4,6 +4,8 @@ git remote <name of remote> - Creates a remote. It's custom to create a remote c
 
 git pull origin master - pulls the the data from the master branch on the remote to origin.
 
+git push origin master - Pushes the data from your origin remote to the master remote.
+
 git init - Creates a local repository on your computer.
 
 git diff <commit> <commit> - Compare both commits to see changes.
