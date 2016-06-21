@@ -1,3 +1,9 @@
+git init - Creates a local repository on your computer.
+
+git diff <commit> <commit> - Compare both commits to see changes.
+
+git log - shows you all the commits that were committed.
+
 git status - shows status
 
 git add <files> - adds files to staging area.
@@ -8,6 +14,7 @@ git branch <name of new branch> - Creates a branch with desired name.
 
 git branch -d <name of branch> - Deletes the desired branch.
     - This command is only used after you commit your changes within that branch so that you don't lose them.
+
 git branch - shows me the names of the branches that exist.
 
 git merge master easy-mode - This is how you merge the branch to the master.
